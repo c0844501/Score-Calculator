@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.ScoreCalculator.resources
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\DELL\Desktop\.net practical\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
